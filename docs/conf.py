@@ -17,7 +17,7 @@ html_theme = 'sphinx_rtd_theme'
 html_static_path = ['_static']
 
 # IMPORTANT: Default ReadTheDocs URL
-html_baseurl = "https://bittdefender.readthedocs.io/en/latest/"
+html_baseurl = "https://antivirus-knowledgebase.readthedocs.io/en/latest/"
 
 # ✅ GOOGLE + BING VERIFICATION META TAG
 html_meta = {
